@@ -15,11 +15,6 @@
   [![Saeed Rohani Stackoverflow](https://img.shields.io/badge/Saeed%20Rohani-Stackoverflow?style=for-the-badge&logo=stackoverflow&labelColor=%23555555&color=%23F58025&link=https://stackoverflow.com/users/4445142/saeed-rohani)](https://stackoverflow.com/users/4445142/saeed-rohani)
 
 
-
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-rohani&layout=compact&theme=radical" width="300" />
-![Saeed Rohani Git Stats](https://github-readme-stats.vercel.app/api?username=saeed-rohani&show_icons=true&theme=radical)
-
 ![JavaScript]([https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E](https://img.shields.io/badge/javascript-logo?style=flat-square&logo=javascript&logoColor=%23F7DF1E&color=%23323330
 ))
 <!---
