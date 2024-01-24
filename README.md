@@ -3,11 +3,13 @@
 - 🔭 I’m currently working as a Full Stack Software Developer
 - 🌱 I’m currently learning new technology about developing web and mobile applications
 - 📫 I'm availaible at:
+  
    https://saeedrohani.com
+
+  ![Static Badge](https://img.shields.io/badge/Saeed%20Rohani-name?style=for-the-badge&logo=linkedin&color=%230967c2)
   
   ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/saeed_rohani)
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/saeedrohani/)](https://www.linkedin.com/in/saeedrohani/)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-rohani&layout=compact&theme=radical" width="300" />
 ![Saeed Rohani Git Stats](https://github-readme-stats.vercel.app/api?username=saeed-rohani&show_icons=true&theme=radical)
 
