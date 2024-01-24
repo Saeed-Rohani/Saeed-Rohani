@@ -6,7 +6,7 @@
   
    https://saeedrohani.com
 
-  ![Static Badge](https://img.shields.io/badge/Saeed%20Rohani-name?style=for-the-badge&logo=linkedin&color=%230967c2)
+  ![Saeed Rohani LinkedIn](https://img.shields.io/badge/Saeed%20Rohani-LinkedIn?style=for-the-badge&logo=linkedin&color=%230967c2)
   
   ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/saeed_rohani)
   
