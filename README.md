@@ -17,7 +17,8 @@
 - Stack:
 
   ![Javascript](https://img.shields.io/badge/Javascript-badge?style=flat-square&logo=javascript&color=%23333) ![Typescript](https://img.shields.io/badge/Typescript-badge?style=flat-square&logo=Typescript&logoColor=%23fff&color=%233178c6)
- ![Node.js](https://img.shields.io/badge/Node.js-badge?style=flat-square&logo=Node.js&color=%23333) ![React](https://img.shields.io/badge/React-badge?style=flat-square&logo=react&color=%2323272f) ![React Native](https://img.shields.io/badge/React%20Native-badge?style=flat-square&logo=react&color=%23282c34) ![Next.js](https://img.shields.io/badge/Next.js-badge?style=flat-square&logo=Next.js&color=%23000)
+ ![Node.js](https://img.shields.io/badge/Node.js-badge?style=flat-square&logo=Node.js&color=%23333) ![React](https://img.shields.io/badge/React-badge?style=flat-square&logo=react&color=%2323272f) ![React Native](https://img.shields.io/badge/React%20Native-badge?style=flat-square&logo=react&color=%23282c34) ![Next.js](https://img.shields.io/badge/Next.js-badge?style=flat-square&logo=Next.js&color=%23000) ![MongoDB](https://img.shields.io/badge/MongoDB-badge?style=flat-square&logo=MongoDB&color=%23000)
+
 
 
  
