@@ -5,7 +5,7 @@
 - 📫 I'm availaible at:
    https://saeedrohani.com
   
-  [![Twitter Follow](https://img.shields.io/twitter/follow/saeed_rohani?style=social)](https://twitter.com/saeed_rohani)
+  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/saeed_rohani)
   
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&&target=_blanklogoColor=white&link=https://www.linkedin.com/in/saeedrohani/)](https://www.linkedin.com/in/saeedrohani/)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-rohani&layout=compact&theme=radical" width="300" />
